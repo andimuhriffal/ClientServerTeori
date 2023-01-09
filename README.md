@@ -30,7 +30,9 @@ Memahami terlebih dahulu bahasa java untuk bisa memulai belajar menggunakan Spri
 - BelajarSpringDasarApplicationTests<br><br>
 
 # Pengenalan Spring Framework
-Spring Framework adalah framework paling populer di Java Saking populernya, Spring Framework sampai mengalahkan popularitas Java Enterprise sendiri
+Spring Framework adalah sebuah framework yang paling populer di bahasa Java dan Saking populernya, Spring Framework sampai mengalahkan popularitas Java Enterprise sendiri Spring Framework dibuat sekitar tahun 2003 oleh Rod Johnson, yang dibuat sebagai alternative Java Enterprise, Spring Framework semakin populer karena sangat ringan dan mudah digunakan dibandingkan dengan Java Enterprise<br>
+Beerikut Link Spring Framework : https://spring.io/
+
 
 
 
