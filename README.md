@@ -39,6 +39,14 @@ Dahulu untuk menggunakan Spring Framework, untuk pemula tidaklah mudah, karena t
 Spring Boot menjadikan kompleksitas tersebut ditangani secara otomatis oleh Spring Boot, sehingga kita bisa membuat aplikasi Spring Framework secara cepat tanpa harus melakukan pengaturan apapun
 Spring Boot sekarang sudah menjadi salah satu framework wajib ketika kita ingin membuat aplikasi Spring Framework<br><br>
 
+# ApplicationContext
+
+ApplicationContext adalah sebuah interface representasi container IoC di Spring dan juga ApplicationContext adalah inti dari Spring Framework
+ApplicationContext banyak sekali class implementasinya, secara garis besar dibagi menjadi 2 jenis implementasi, XML dan Annotation
+Pada versi Spring 3, XML masih menjadi pilihan utama, namun sekarang sudah banyak orang beralih dari XML ke Annotation, bahkan Spring Boot pun merekomendasikan menggunakan Annotation untuk membuat aplikasi Spring<br>
+javadoc ApplicationContext : https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContext.html 
+
+
 
 
 
