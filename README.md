@@ -54,3 +54,5 @@ Configuration Class adalah sebuah class yang terdapat annotation @Configuration 
 @Configuration
 public class HelloWorldConfiguration{
 }
+```
+
