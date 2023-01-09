@@ -8,4 +8,29 @@ No BP : 2101082031<br>
 
 Memahami terlebih dahulu bahasa java untuk bisa memulai belajar menggunakan Spring Framework<br>
 
+# Materi yang Akan di pelajari
+
+- ApplicationContextTest<br>
+- BeanFactoryTest<br>
+- BeanNameTest<br>
+- BeanPostProcessorTest<br>
+- BeanTest<br>
+- ComponentTest<br>
+- CyclicTest<br>
+- DatabaseTest<br>
+- DependencyInjectionTest<br>
+- DependsOnTest<br>
+- DuplicateTest<br>
+- FactoryTest<br>
+- ImportTest<br>
+- InheritanceTest<br>
+- LifeCycleTest<br>
+- OptionalTest<br>
+- PrimaryTest<br>
+- BelajarSpringDasarApplicationTests<br><br>
+
+# Pengenalan Spring Framework
+Spring Framework adalah framework paling populer di Java Saking populernya, Spring Framework sampai mengalahkan popularitas Java Enterprise sendiri
+
+
 
