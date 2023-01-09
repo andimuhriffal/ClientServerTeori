@@ -1,4 +1,4 @@
-# ClientServerTeori
+# Belajar-Fungsi-Spring
 
 Nama : Andi Muhammad Riffal<br>
 Kelas : TEKOM 2B<br>
