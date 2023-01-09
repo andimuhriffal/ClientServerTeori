@@ -44,7 +44,12 @@ Spring Boot sekarang sudah menjadi salah satu framework wajib ketika kita ingin 
 ApplicationContext adalah sebuah interface representasi container IoC di Spring dan juga ApplicationContext adalah inti dari Spring Framework
 ApplicationContext banyak sekali class implementasinya, secara garis besar dibagi menjadi 2 jenis implementasi, XML dan Annotation
 Pada versi Spring 3, XML masih menjadi pilihan utama, namun sekarang sudah banyak orang beralih dari XML ke Annotation, bahkan Spring Boot pun merekomendasikan menggunakan Annotation untuk membuat aplikasi Spring<br><br>
-javadoc ApplicationContext : <br>https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContext.html 
+javadoc ApplicationContext : <br>https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContext.html<br><br>
+
+**configuration
+Untuk membuat ApplicationContext menggunakan Annotation, pertama kita bisa perlu membuat Configuration class
+Configuration Class adalah sebuah class yang terdapat annotation @Configuration pada class tersebut
+
 
 
 
